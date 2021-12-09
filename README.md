@@ -1,10 +1,13 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 Sample Project
 
-We recommend to look at the [documentation](https://v3.nuxtjs.org).
+Integrated With
+* Express
+* Windicss
+* SASS
 
 ## Setup
 
-Make sure to install the dependencies
+Make sure to install the dependencies when cloning
 
 ```bash
 yarn install
@@ -25,5 +28,3 @@ Build the application for production:
 ```bash
 yarn build
 ```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment).
